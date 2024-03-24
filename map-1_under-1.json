@@ -1,0 +1,74 @@
+[
+    {
+        "group": "background",
+        "item": "color",
+        "x": -500,
+        "y": 0,
+        "x0": 0,
+        "y0": 800,
+        "contain": [80,80,139]
+    },
+    {
+        "group": "ground",
+        "item": "ground",
+        "x": -500,
+        "y": 700,
+        "x0": 2000,
+        "y0": 800,
+        "contain": ""
+    },
+    {
+    "group": "entity",
+    "item": "goomba",
+    "x": 700,
+    "y": 600,
+    "x0": 0,
+    "y0": 800,
+    "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "ground",
+        "x": -500,
+        "y": 0,
+        "x0": 0,
+        "y0": 800,
+        "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "ground",
+        "x": 0,
+        "y": 0,
+        "x0": 300,
+        "y0": 100,
+        "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "ground",
+        "x": 500,
+        "y": 0,
+        "x0": 2000,
+        "y0": 100,
+        "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "ground",
+        "x": 2000,
+        "y": 0,
+        "x0": 3000,
+        "y0": 800,
+        "contain": ""
+    },
+    {
+        "group": "pipe",
+        "item": "ground",
+        "x": 1700,
+        "y": 600,
+        "x0": 2000,
+        "y0": 800,
+        "contain": "UP"
+    }
+]

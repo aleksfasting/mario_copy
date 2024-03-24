@@ -1,0 +1,461 @@
+[
+    {
+        "group": "ground",
+        "item": "ground",
+        "x": -500,
+        "y": 0,
+        "x0": 0,
+        "y0": 800,
+        "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "ground",
+        "x": 0,
+        "y": 700,
+        "x0": 3100,
+        "y0": 800,
+        "contain": ""
+    },
+    {
+        "group": "block",
+        "item": "block",
+        "x": 1000,
+        "y": 500,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "brick",
+        "item": "brick",
+        "x": 1250,
+        "y": 500,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "block",
+        "item": "block",
+        "x": 1300,
+        "y": 500,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "block",
+        "item": "block",
+        "x": 1350,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "brick",
+        "x": 1350,
+        "y": 500,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "block",
+        "item": "block",
+        "x": 1400,
+        "y": 500,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "brick",
+        "item": "brick",
+        "x": 1450,
+        "y": 500,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "entity",
+        "item": "goomba",
+        "x": 1500,
+        "y": 650,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "pipe",
+        "item": "pipe",
+        "x": 1650,
+        "y": 600,
+        "x0": 800,
+        "y0": 500,
+        "contain": ""
+    },
+    {
+        "group": "entity",
+        "item": "goomba",
+        "x": 2000,
+        "y": 650,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "pipe",
+        "item": "",
+        "x": 2100,
+        "y": 550,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "pipe",
+        "item": "block",
+        "x": 2600,
+        "y": 550,
+        "x0": 0,
+        "y0": 0,
+        "contain": "map-1_under-1"
+    },
+    {
+        "group": "entity",
+        "item": "goomba",
+        "x": 2500,
+        "y": 600,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "entity",
+        "item": "goomba",
+        "x": 2200,
+        "y": 600,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "ground",
+        "item": "goomba",
+        "x": 2650,
+        "y": 700,
+        "x0": 3500,
+        "y0": 800,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3200,
+        "y": 500,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "block",
+        "item": "goomba",
+        "x": 3250,
+        "y": 500,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3350,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3400,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3450,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3500,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3550,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3600,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3650,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3700,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3750,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "goomba",
+        "x": 3800,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "ground",
+        "item": "goomba",
+        "x": 3800,
+        "y": 700,
+        "x0": 6000,
+        "y0": 800,
+        "contain": "star"
+    },
+    {
+        "group": "entity",
+        "item": "turtle",
+        "x": 5000,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "turtle",
+        "x": 4050,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "turtle",
+        "x": 4100,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "turtle",
+        "x": 4150,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "block",
+        "item": "block",
+        "x": 4200,
+        "y": 350,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "brick",
+        "item": "turtle",
+        "x": 4200,
+        "y": 500,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "entity",
+        "item": "goomba",
+        "x": 5000,
+        "y": 650,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "entity",
+        "item": "goomba",
+        "x": 5050,
+        "y": 650,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "block",
+        "item": "goomba",
+        "x": 5000,
+        "y": 450,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "block",
+        "item": "goomba",
+        "x": 5200,
+        "y": 450,
+        "x0": 0,
+        "y0": 0,
+        "contain": ""
+    },
+    {
+        "group": "block",
+        "item": "goomba",
+        "x": 5200,
+        "y": 300,
+        "x0": 0,
+        "y0": 0,
+        "contain": "star"
+    },
+    {
+        "group": "ground",
+        "item": "goomba",
+        "x": 5800,
+        "y": 650,
+        "x0": 6000,
+        "y0": 700,
+        "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "goomba",
+        "x": 5850,
+        "y": 600,
+        "x0": 6000,
+        "y0": 650,
+        "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "goomba",
+        "x": 5900,
+        "y": 550,
+        "x0": 6000,
+        "y0": 600,
+        "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "goomba",
+        "x": 5950,
+        "y": 500,
+        "x0": 6000,
+        "y0": 550,
+        "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "goomba",
+        "x": 6500,
+        "y": 700,
+        "x0": 7000,
+        "y0": 750,
+        "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "goomba",
+        "x": 7000,
+        "y": 700,
+        "x0": 10000,
+        "y0": 800,
+        "contain": ""
+    },
+    {
+        "group": "ground",
+        "item": "goomba",
+        "x": 6500,
+        "y": 800,
+        "x0": 6900,
+        "y0": 850,
+        "contain": ""
+    },
+    {
+        "group": "pipe",
+        "item": "pipe",
+        "x": 6900,
+        "y": 800,
+        "x0": 0,
+        "y0": 0,
+        "contain": "map-1_under-2"
+    },
+    {
+        "group": "pipe",
+        "item": "pipe",
+        "x": 7050,
+        "y": 600,
+        "x0": 6000,
+        "y0": 700,
+        "contain": ""
+    },
+    {
+        "group": "flag",
+        "item": "pipe",
+        "x": 7400,
+        "y": 700,
+        "x0": 6000,
+        "y0": 700,
+        "contain": ""
+    }
+]
